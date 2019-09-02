@@ -1,6 +1,6 @@
-# The spcx parser
+# The SPCX parser
 
-This project is a Python spcx parsing library.
+This project is a Python SPCX parsing package.
 
 ## Installation
 
