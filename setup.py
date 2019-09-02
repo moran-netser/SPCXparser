@@ -5,9 +5,9 @@ setup(
     packages = ["spcxbutcher"],
     version = "0.4",
     description = "SPCX photon data parser",
-    author = "Moran Netser & Yoav Kleinberger",
-    author_email = "haarcuba@gmail.com",
-    url = "https://github.com/morannetser/SpcxButcher",
+    author = "Moran Netser",
+    author_email = "moran.netser@gmail.com",
+    url = "https://github.com/moran-netser/SPCXparser",
     keywords = ["SPCX", "SPC", "photon", "photons"],
     scripts = ['bin/spcx_to_json', 'bin/spcx_to_matlab', 'bin/spcx_view'],
     classifiers = [
